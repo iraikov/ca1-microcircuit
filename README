@@ -1,0 +1,29 @@
+---------------------------------------------
+
+
+Repo contributors (in alphabetical order):
+    Darian Hadjiabadi
+    Aaron Milstein, Ph.D.
+    Ivan Raikov, Ph.D.
+
+Affiliation:
+    Stanford University
+    Ivan Soltesz Lab
+
+
+----------------------------------------------
+
+
+8/27/18
+
+This repository builds off previous work completed by Cutsuridis V, Cobb S, and Graham BP in their 2010 work
+'Encoding and retrieval in a model of the hippocampal CA1 microcircuit.
+
+HOC cell templates have been converted to python classes to provide access to a wider audience, and can be 
+found in the 'python_port' subdirectory.
+
+The network has been modified to run using the NetPyNE framework (netpyne.org), with driver script (NetPyNE_run.py)borrowed from: https://github.com/angietep/CA1-NetPyNE-model
+
+
+
+
